@@ -1,0 +1,33 @@
+{
+    "dishes": [
+        {
+            "id": 1,
+            "name": "empanadas",
+            "origen": "colombia"
+        },
+        {
+            "id": 2,
+            "name": "Ceviche",
+            "origen": "Perú"
+        },
+        {
+            "id": 4,
+            "name": "arepa",
+            "origen": "colombia"
+        }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "name": "7 habitos",
+            "author": " stephen r covey",
+            "year": "1989"
+        },
+        {
+            "id": 2,
+            "name": "Los siete habitos",
+            "author": " Stephen R Covey",
+            "year": "1990"
+        }
+    ]
+}
